@@ -10,6 +10,8 @@ import org.primefaces.model.map.Marker;
 
 @ManagedBean(name ="mapaBean")
 @RequestScoped
+
+//DEFINICION DE MODELO
 public class MapaBean {
 
 		private MapModel modelo = new DefaultMapModel();
