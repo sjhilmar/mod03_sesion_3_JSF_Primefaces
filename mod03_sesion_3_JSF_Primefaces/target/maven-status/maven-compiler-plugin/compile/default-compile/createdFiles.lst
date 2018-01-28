@@ -1,0 +1,7 @@
+com\tecsup\excepcion\DAOExcepcion.class
+com\tecsup\modelo\Categoria.class
+com\tecsup\jsf\bean\CategoriaBean.class
+com\tecsup\negocio\GestionCategorias.class
+com\tecsup\jsf\bean\MapaBean.class
+com\tecsup\negocio\GestionProductos.class
+com\tecsup\modelo\Producto.class
